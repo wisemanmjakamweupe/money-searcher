@@ -1,0 +1,2 @@
+# money-searcher
+money only
